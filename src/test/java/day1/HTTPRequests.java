@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-/*
+/*ADD for checking
  * given()- content type,set cookies,add auth,add param,set header info etc
  * when()-request url keep inside get,put,post,delete, patch
  * then()-validate the response status code,extract response,header,cookies,header body
